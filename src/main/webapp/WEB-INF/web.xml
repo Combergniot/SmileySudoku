@@ -8,16 +8,17 @@
   <display-name>Archetype Created Web Application</display-name>
 
   <servlet>
-    <servlet-name>Kotki</servlet-name>
+    <servlet-name>KotkiServlet</servlet-name>
     <servlet-class>KotkiServlet</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>Kotki</servlet-name>
+    <servlet-name>KotkiServlet</servlet-name>
     <url-pattern>/kot</url-pattern>
   </servlet-mapping>
+
   <servlet>
     <servlet-name>KotkiJsp</servlet-name>
-    <jsp-file>kotki.jsp</jsp-file>
+    <jsp-file>/kotki.jsp</jsp-file>
   </servlet>
   <servlet-mapping>
     <servlet-name>KotkiJsp</servlet-name>
