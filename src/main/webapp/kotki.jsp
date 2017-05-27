@@ -46,9 +46,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="0"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="0"/>
-        </td>
+
     </tr>
 
     <center tr>
@@ -79,9 +77,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="1"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="1"/>
-        </td>
+
     </tr>
     <center tr>
         <td>
@@ -111,9 +107,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="2"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="2"/>
-        </td>
+
     </tr>
     <center tr>
         <td>
@@ -143,9 +137,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="3"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="3"/>
-        </td>
+
     </tr>
     <center tr>
         <td>
@@ -175,9 +167,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="4"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="4"/>
-        </td>
+
     </tr>
     <center tr>
         <td>
@@ -207,9 +197,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="5"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="5"/>
-        </td>
+
     </tr>
     <center tr>
         <td>
@@ -239,9 +227,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="6"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="6"/>
-        </td>
+
     </tr>
 
     <center tr>
@@ -272,9 +258,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="7"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="7"/>
-        </td>
+
     </tr>
     <center tr>
         <td>
@@ -304,41 +288,7 @@
         <td>
             <def:cos tabela="${tabela}" x="8" y="8"/>
         </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="8"/>
-        </td>
-    </tr>
-    <center tr>
-        <td>
-            <def:cos tabela="${tabela}" x="0" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="1" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="2" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="3" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="4" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="5" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="6" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="7" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="8" y="9"/>
-        </td>
-        <td>
-            <def:cos tabela="${tabela}" x="9" y="9"/>
-        </td>
+
     </tr>
 
 
