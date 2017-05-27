@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387d4306-66b8-48c4-b725-25b6fdb6c042" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Kotki.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Kotki/WEB-INF/classes/KotkiServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Kotki/WEB-INF/lib/jsp-api-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Kotki/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Kotki/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Kotki/kotki.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/KotkiServlet.class" afterPath="$PROJECT_DIR$/target/classes/KotkiServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/model/PointAndClick.java" afterPath="$PROJECT_DIR$/src/main/java/model/PointAndClick.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/cos.tag" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/cos.tag" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/kotki.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/kotki.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,8 +41,8 @@
       <file leaf-file-name="PointAndClick.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/PointAndClick.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="442">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="e#645#646#0" expanded="true" />
                 <element signature="e#685#686#0" expanded="true" />
@@ -647,6 +632,14 @@
       <option name="presentableId" value="Default" />
       <updated>1495870532396</updated>
     </task>
+    <task id="LOCAL-00001" summary="Kotki 2.0">
+      <created>1495891411367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495891411367</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -688,6 +681,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kotki 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotki 2.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -839,8 +836,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/model/PointAndClick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="442">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="e#645#646#0" expanded="true" />
             <element signature="e#685#686#0" expanded="true" />
