@@ -28,7 +28,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Kotki</finalName>
+    <!--<finalName>Kotki</finalName>-->
 
       <plugins>
         <plugin>

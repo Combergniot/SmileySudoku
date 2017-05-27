@@ -24,4 +24,9 @@
     <servlet-name>KotkiJsp</servlet-name>
     <url-pattern>/kotkijsp</url-pattern>
   </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>default</servlet-name>
+    <url-pattern>/img/*</url-pattern>
+  </servlet-mapping>
 </web-app>

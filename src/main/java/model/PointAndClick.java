@@ -1,11 +1,13 @@
 package model;
 
+import java.util.Random;
+
 /**
  * Created by User on 27.05.2017.
  */
 public class PointAndClick {
 
-    int img = 2;
+
 private int[][] tabela = {{0,0,0,0,0,0,0,0,0,0}
                         , {0,0,0,0,0,0,0,0,0,0}
                         , {0,0,0,0,0,0,0,0,0,0}
@@ -26,15 +28,14 @@ private int[][] tabela = {{0,0,0,0,0,0,0,0,0,0}
         return tabela[x][y];}
 
     public boolean setField(int x, int y) {
-        if (isFieldEmpty(x, y)) {
-            tabela[x][y] = img;
+           tabela[x][y] = (tabela [x][y] +1 )% 5;
 
 
             return true;
         }
 
-        return false;
-    }
+
+
 
 }
 
