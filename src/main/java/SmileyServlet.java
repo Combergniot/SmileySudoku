@@ -9,10 +9,9 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
 /**
- * Created by User on 27.05.2017.
+ * Created by RENT on 2017-05-29.
  */
-public class KotkiServlet extends HttpServlet{
-
+public class SmileyServlet extends HttpServlet{
     @Override
     public void init(ServletConfig config) throws ServletException {
         super.init(config);

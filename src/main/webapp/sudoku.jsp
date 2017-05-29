@@ -49,7 +49,7 @@
     for (int j = 0 ; j < 9 ; j++) {
 %>
         <td>
-            <def:cos tabela="${tabela}" x="<%=i%>" y="<%=j%>"/>
+            <def:sudoku sudokuBoard="${sudokuBoard}" x="<%=i%>" y="<%=j%>"/>
         </td>
 <%
     }
