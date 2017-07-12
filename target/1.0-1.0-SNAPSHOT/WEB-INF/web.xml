@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+    <servlet-name>SudokuServlet</servlet-name>
+    <servlet-class>SudokuServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SudokuServlet</servlet-name>
+    <url-pattern>/sudoku</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>SmileyServlet</servlet-name>
+    <servlet-class>SmileyServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SmileyServlet</servlet-name>
+    <url-pattern>/smiley</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>KotkiJsp</servlet-name>
+    <jsp-file>/kotki.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>KotkiJsp</servlet-name>
+    <url-pattern>/kotkijsp</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet-mapping>
+    <servlet-name>default</servlet-name>
+    <url-pattern>/img/*</url-pattern>
+  </servlet-mapping>
+</web-app>

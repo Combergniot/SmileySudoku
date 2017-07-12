@@ -8,8 +8,7 @@
     tr {text-align: center;}
     td {text-align: center;}
 
-    body
-    { text-align: center;}
+    body: { text-align: center;}
 
     table {
       margin:1em auto;

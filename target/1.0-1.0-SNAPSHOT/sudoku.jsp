@@ -8,8 +8,7 @@
     tr {text-align: center;}
     td {text-align: center;}
 
-    body
-    { text-align: center;}
+    body: { text-align: center;}
 
     table {
       margin:1em auto;
@@ -50,7 +49,7 @@
     for (int j = 0 ; j < 9 ; j++) {
 %>
         <td>
-            <def:cos tabela="${tabela}" x="<%=i%>" y="<%=j%>"/>
+            <def:sudoku sudokuBoard="${sudokuBoard}" x="<%=i%>" y="<%=j%>"/>
         </td>
 <%
     }
